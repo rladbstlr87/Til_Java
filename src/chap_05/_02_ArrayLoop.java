@@ -1,6 +1,6 @@
 package chap_05;
 
-public class _01_ArrayLoop {
+public class _02_ArrayLoop {
     public static void main(String[] args) {
         // 배열의 길이를 이용한 순회
         String[] coffees = {"americano", "mocha", "latte", "cappuccino"};
