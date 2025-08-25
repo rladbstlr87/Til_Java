@@ -4,7 +4,7 @@ public class _06_WhenToUse {
     // 메소드 내에서 메소드 불러올 수 있음. 선언한 순서와 무관
     public static int getPower(int number) {
         int result = number * number;
-        return getPower(number, 2)
+        return getPower(number, 2);
     }
 
     public static int getPower(int number, int exponent) {
